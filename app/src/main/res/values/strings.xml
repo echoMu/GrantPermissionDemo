@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GrantPermissionDemo</string>
+    <string name="toast_permission_notify">应用需要相应权限才能正常使用,拒绝后页面将关闭</string>
+    <string name="label_permission_rationale">永久禁用相关权限会导致应用发生异常,请前往设置进行开启</string>
+</resources>
